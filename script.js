@@ -20,7 +20,7 @@ h1.addEventListener('click', function sayHi2() {
 //     alert('Namaste Javascript');
 // });
 
-// Very good Keshav bhai! you yourself completed this task
+
 let i = 1;
 card.addEventListener('click', () => {
     // let i = 1;
